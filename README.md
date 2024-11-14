@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and coding
 - 🌱 I’m currently learning html and css
 - 📫 How to reach me Discord: @dizzapik228
-- 😄 Pronouns: there is only two genders. Male and female. i hate you github. im homophobic and idgaf
+- 😄 Pronouns: he\him\his
 - ⚡ Fun fact: puki kaki kakashki
 
 <!---
